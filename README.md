@@ -82,7 +82,7 @@ A company looking to compete in the space industry needed a comprehensive analys
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/applied-data-science-capstone.git
+   git clone https://github.com/SebabsKHE/Applied-data-Science-Capstone.git
    ```
 2. Install the required dependencies:
    ```bash
